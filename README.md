@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34340183/README.md)
+
 # AI, SaaS & Backend Workflows
 
 Разрабатываю прикладные AI-системы, мультиагентные воркфлоу, B2B/B2C веб-платформы и защищённые бэкенды — от проектирования архитектуры до продакшна.
